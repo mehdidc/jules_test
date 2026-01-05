@@ -1,0 +1,9 @@
+jax
+jaxlib
+flax
+transformers
+datasets
+optax
+torch
+tqdm
+chex
